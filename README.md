@@ -44,7 +44,7 @@ From building intelligent resume screening systems to full-stack applications an
 ### 🏆 Achievements
 
 - 📄 Co-Author, IEEE Xplore: [Detection and Prevention of Animal in Farmland Using IoT-ML](https://doi.org/10.1109/INNOVA63080.2024.10847028)
-- 🥈 Semi-Finalist @ Flipkart GRiD 6.0 – Software Dev Track
+- 🥈 Semi-Finalist @ Flipkart GRiD 7.0 – Software Dev Track
 - 🥈 Runner-Up – Technovision 2024 (Java + SQL project)
 - 🥉 3rd Prize – TECHVISION (DSA Mini Project)
 
